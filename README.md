@@ -14,7 +14,7 @@ Requires Python >= 3.6
 <br />`python3 challenge.py`
 
 ## Description
-The pyhton code reads any CSV file and outputs the header of the file on the
+The python code reads any CSV file and outputs the header of the file on the
 terminal. Enter the file name as an input after running the code. The next()
 function can be used to read the next line of the CSV file and to print that on
 the terminal as well.
