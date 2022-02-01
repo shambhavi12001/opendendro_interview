@@ -10,7 +10,7 @@ Requires Python >= 3.6
 2. Switch to python branch
 <br />`git checkout python`
 3. Make sure the CSV files are in the same directory as the 'challenge.py'
-   file. Run the pythone file
+   file. Run the python file
 <br />`python3 challenge.py`
 
 ## Description
